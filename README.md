@@ -12,9 +12,11 @@ Per utilizzare questo codice, bisogna prima di tutto avere un server PHP attivo 
 ### Esecuzione del programma
 
 Per prima cosa dobbiamo eseguire il programma. Per farlo, avviare il pannello di controllo XAMPP e cliccare sull'immagine "Shell".
+
 <img src="assets/xampp_panel.png" alt="Pannello di controllo" height="300px">
 
 Questo aprirà un prompt dei comandi.
+
 <img src="assets/xampp_shell.png" alt="Shell XAMPP" height="300px">
 
 A questo punto dobbiamo copiare il percorso **assoluto** del file index.php ed incollarlo nel comando seguente:
