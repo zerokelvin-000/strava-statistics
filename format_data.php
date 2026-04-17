@@ -4,4 +4,4 @@
 
     use Zerokelvin\Utils;
 
-    Utils::format_data("H:\\xampp\htdocs\progetti\strava-statistics\\results\\results_1761426492.json");
+    Utils::format_data(__DIR__."/results/results_1763997656.json");
