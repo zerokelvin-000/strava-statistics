@@ -8,7 +8,7 @@
     Utils::new_line();
     Utils::message_out("Tool per l'analisi di attività Strava");
     Utils::message_out("Zerokelvin <zerokelvin.business@gmail.com>");
-    Utils::message_out("Copyright: SAMT Lugano, sezione informatica");
+    Utils::message_out("Copyright: 2026 zerokelvin.");
     Utils::new_line();
 
     while(true){
