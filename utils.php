@@ -6,7 +6,7 @@
     /**
      * Un insieme di funzioni creato con lo scopo di velocizzare lo sviluppo
      */
-    trait Utils{
+    class Utils{
         /**
          * Scrive un messaggio nel terminale
          * @param string $message il messaggio
